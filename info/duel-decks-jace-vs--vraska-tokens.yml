@@ -1,0 +1,16 @@
+---
+object: set
+id: 1347a008-d8da-46d5-82f7-fe25527bbbd0
+code: tddm
+name: 'Duel Decks: Jace vs. Vraska Tokens'
+uri: https://api.scryfall.com/sets/1347a008-d8da-46d5-82f7-fe25527bbbd0
+scryfall_uri: https://scryfall.com/sets/tddm
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atddm&unique=prints
+released_at: '2014-03-14'
+set_type: token
+card_count: 1
+parent_set_code: ddm
+digital: false
+nonfoil_only: true
+foil_only: false
+icon_svg_uri: https://svgs.scryfall.io/sets/ddm.svg?1694404800
